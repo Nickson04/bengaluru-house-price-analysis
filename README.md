@@ -5,7 +5,7 @@ Bengaluru House Price dataset using Python and pandas, to understand what
 drives house prices in the city.
 
 ## About the data
-The dataset comes from Kaggle ([add the link to the dataset page]). It has
+The dataset comes from Kaggle https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data. It has
 13,320 listings with the area type, availability, location, size, number of
 bathrooms and balconies, total square feet and price. Prices are in lakhs of
 rupees.
@@ -33,7 +33,6 @@ rupees.
 - The most expensive areas per sqft are Benson Town, Rajaji Nagar,
   Malleshwaram, Indira Nagar and Cooke Town.
 - Price rises clearly with size, and with bedrooms up to about 4 to 5 BHK.
-- [Add one finding of your own, e.g. the median price and mean price.]
 
 ## What I learned
 - One wrong record can distort an average, so I used the median and a
